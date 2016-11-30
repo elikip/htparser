@@ -1,5 +1,5 @@
-# BIST Parsers
-## Graph & Transition based dependency parsers using BiLSTM feature extractors.
+# Easy-first Parser
+## Easy-first dependency parser based on Hierarchical Tree LSTMs
 
 The techniques behind the parser are described in the paper [Easy-First Dependency Parsing with Hierarchical Tree LSTMs](https://www.transacl.org/ojs/index.php/tacl/article/viewFile/798/208). Further materials could be found [here](http://elki.cc/#/article/Easy-First%20Dependency%20Parsing%20with%20Hierarchical%20Tree%20LSTMs). 
 
